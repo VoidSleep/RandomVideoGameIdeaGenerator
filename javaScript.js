@@ -7,9 +7,6 @@ var RandWords = [
     "(theme)",
 ]
 
-function Genre(num){
-    
-}
 function ChangeWords(){
     for (let index = 0; index < RandWords.length; index++) {
         switch (index) {

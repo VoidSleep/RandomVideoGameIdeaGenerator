@@ -58,7 +58,7 @@ function ChangeWords(){
                     "the wild",
                     "another planet",
                     "a dungeon",
-                    "a manision",
+                    "a mansion",
                     "outer space",
                     "a desert",
                     "a forrest",

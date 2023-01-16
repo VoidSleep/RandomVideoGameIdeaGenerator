@@ -19,7 +19,7 @@ function ChangeWords(){
                     "RPG",
                     "rouge-like",
                     "horror",
-                    "soul-like",
+                    "souls-like",
                     "survival",
                     "stealth",
                     "fighting",

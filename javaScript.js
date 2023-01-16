@@ -119,7 +119,6 @@ function ChangeWords(){
                     "An atompunk",
                     "A biopunk",
                     "An aetherpunk",
-                    "A cubist",
                     "An avant-garde",
                     "A film noir",
                     "A wild west"

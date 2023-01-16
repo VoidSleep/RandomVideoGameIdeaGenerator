@@ -93,7 +93,7 @@ function ChangeWords(){
                     "explore the map and see what you can find.",
                     "you need to assassinate a specific someone.",
                     "beat all the levels to win.",
-                    "you need to rescue as special someone.",
+                    "you need to rescue a special someone.",
                     "become the strogest in the universe.",
                     "get all of the relics.",
                     "make it as far as possible before dying.",

@@ -85,21 +85,22 @@ function ChangeWords(){
                 break;
             case 4:
                 let goal = [
-                    "to be as fast as possible",
-                    "to escape",
-                    "to get a high score",
-                    "to kill as much as possible",
-                    "to beat the final boss",
-                    "to explore",
-                    "to assassinate a specific someone",
-                    "to beat all the levels",
-                    "to rescue a special someone",
-                    "to be the strogest in the universe",
-                    "to get all of the relics",
-                    "to make it as far as possible before dying",
-                    "to survive as long as possible",
-                    "to infiltrate and retrive some special object",
-                    "to make alot of money"
+                   "speed is rewarded.",
+                    "to escape is your main objective.",
+                    "get the highest score you can.",
+                    "kill as much as possible.",
+                    "beat the final boss to win.",
+                    "explore the map and see what you can find.",
+                    "you need to assassinate a specific someone.",
+                    "beat all the levels to win.",
+                    "you need to rescue as special someone.",
+                    "become the strogest in the universe.",
+                    "get all of the relics.",
+                    "make it as far as possible before dying.",
+                    "survive as long as possible.",
+                    "infiltrate and retrive some special object.",
+                    "make as much money as possible.",
+                    "deliver the goods in order to win."
                 ]
                 let num4 = RNg(0,goal.length);
                 RandWords[index] = goal[num4];
@@ -132,7 +133,7 @@ function ChangeWords(){
         }
     }
     let Template = 
-    RandWords[5]+" "+RandWords[0]+" game where you play as "+RandWords[1]+" in "+RandWords[2]+" in "+RandWords[3]+","+ "\n" +"you need "+RandWords[4]+" to win.";
+    RandWords[5]+" "+RandWords[0]+" game where you play as "+RandWords[1]+" in "+RandWords[2]+" in "+RandWords[3]+","+ "\n"+RandWords[4];
 
     return Template;
 }

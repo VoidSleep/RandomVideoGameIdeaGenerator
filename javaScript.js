@@ -121,7 +121,7 @@ function ChangeWords(){
                     "An aetherpunk",
                     "An avant-garde",
                     "A film noir",
-                    "A wild west"
+                    "A western style"
                 ]
                 let num5 = RNg(0,theme.length);
                 RandWords[index] = theme[num5];

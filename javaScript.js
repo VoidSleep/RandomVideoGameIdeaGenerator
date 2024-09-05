@@ -37,7 +37,7 @@ function ChangeWords(){
                     "a knight",
                     "a giant",
                     "a wizard",
-                    "a salesman",
+                    "a merchant",
                     "an explorer",
                     "a bounty hunter",
                     "a musician",
